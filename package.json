@@ -17,6 +17,12 @@
     "name": "akjabay",
     "email": "asemhs@gmail.com"
   },
+  "contributors": [
+    {
+      "name": "Sascha",
+      "email": "sascha.brinkmann@gmail.com"
+    }
+  ],
   "license": "MIT",
   "dependencies": {
     "canvas": "^2.6.1",
@@ -25,10 +31,5 @@
   "devDependencies": {
     "chai": "^4.2.0",
     "mocha": "^8.1.3"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:akjabay/jef2img.git"
-  },
-  "publishConfig": { "registry": "https://npm.pkg.github.com/@akjabay" }
+  }
 }
